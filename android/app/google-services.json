@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "447849203813",
+    "project_id": "german-board-7fb50",
+    "storage_bucket": "german-board-7fb50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447849203813:android:2c5a345d6e8788e4839e8c",
+        "android_client_info": {
+          "package_name": "com.example.german_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447849203813-jlar4fumgo0cp55pjv19o726sh00s0i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.german_board",
+            "certificate_hash": "607ff27088fb0d5e307265f2f8256d890c2e7874"
+          }
+        },
+        {
+          "client_id": "447849203813-lr1rebg9j32h4pj1m813h7i9llqbg2vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.german_board",
+            "certificate_hash": "f4df2a642d7961859391ef90d35b25fcdc78e853"
+          }
+        },
+        {
+          "client_id": "447849203813-n9icj3tnt4e4da4sa1d41n3phs5qb9id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.german_board",
+            "certificate_hash": "a03392209b33a6fa37d69e30743968c51f3fb59f"
+          }
+        },
+        {
+          "client_id": "447849203813-uvch6369c5nf2n0s6vd0dbnejeio1503.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7lDofGod4xBcJiwMBdnSVIgeIrWmmXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447849203813-uvch6369c5nf2n0s6vd0dbnejeio1503.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447849203813-pgainel99lg7bbht1m8ll0irrampr6fj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.germanBoard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
